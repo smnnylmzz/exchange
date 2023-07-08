@@ -1,0 +1,11 @@
+C:\Users\smnny\OneDrive\Masaüstü\c#\exchange\exchange\bin\Debug\exchange.exe.config
+C:\Users\smnny\OneDrive\Masaüstü\c#\exchange\exchange\bin\Debug\exchange.exe
+C:\Users\smnny\OneDrive\Masaüstü\c#\exchange\exchange\bin\Debug\exchange.pdb
+C:\Users\smnny\OneDrive\Masaüstü\c#\exchange\exchange\obj\Debug\exchange.csproj.AssemblyReference.cache
+C:\Users\smnny\OneDrive\Masaüstü\c#\exchange\exchange\obj\Debug\exchange.csproj.SuggestedBindingRedirects.cache
+C:\Users\smnny\OneDrive\Masaüstü\c#\exchange\exchange\obj\Debug\exchange.Form1.resources
+C:\Users\smnny\OneDrive\Masaüstü\c#\exchange\exchange\obj\Debug\exchange.Properties.Resources.resources
+C:\Users\smnny\OneDrive\Masaüstü\c#\exchange\exchange\obj\Debug\exchange.csproj.GenerateResource.cache
+C:\Users\smnny\OneDrive\Masaüstü\c#\exchange\exchange\obj\Debug\exchange.csproj.CoreCompileInputs.cache
+C:\Users\smnny\OneDrive\Masaüstü\c#\exchange\exchange\obj\Debug\exchange.exe
+C:\Users\smnny\OneDrive\Masaüstü\c#\exchange\exchange\obj\Debug\exchange.pdb
